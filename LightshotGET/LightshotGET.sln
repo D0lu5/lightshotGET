@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightshotGET", "LightshotGET.csproj", "{B029F50F-FD52-467F-8F65-5DA7BECA6496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B029F50F-FD52-467F-8F65-5DA7BECA6496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B029F50F-FD52-467F-8F65-5DA7BECA6496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B029F50F-FD52-467F-8F65-5DA7BECA6496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B029F50F-FD52-467F-8F65-5DA7BECA6496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE3DA4E-E0E5-48E2-BE55-C296E75F8DD3}
+	EndGlobalSection
+EndGlobal
